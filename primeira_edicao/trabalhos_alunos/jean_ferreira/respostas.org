@@ -1,0 +1,11 @@
+Questão 1
+
+R.: Criei o dockerfile na pasta scripts e dei build
+
+Questão 2
+
+R.: Criei o arquivo bash na pasta scripts, dei chmod +777 para dar permissão e rodei com ./node.sh
+
+Questão 3
+
+R.: Atualizei a tabela e dei PR
